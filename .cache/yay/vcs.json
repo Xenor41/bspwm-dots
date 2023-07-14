@@ -1,0 +1,74 @@
+{
+	"networkmanager-dmenu-git": {
+		"github.com/firecat53/networkmanager-dmenu.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "265230c7ecaccf7e10f84d4414cd175f85a5b30a"
+		}
+	},
+	"picom-arian8j2-git": {
+		"github.com/Arian8j2/picom.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "9645f83b71d5803c7f0a8d724bffb68399809261"
+		}
+	},
+	"polkit-git": {
+		"gitlab.freedesktop.org/polkit/polkit.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "7ebf554ec86e416b7843f315150c38a4ef754d06"
+		}
+	},
+	"redshift-git": {
+		"github.com/jonls/redshift.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "490ba2aae9cfee097a88b6e2be98aeb1ce990050"
+		}
+	},
+	"ttf-material-design-icons-git": {
+		"github.com/Templarian/MaterialDesign-Webfont.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "de76727c7386b0fabd56a98822e69bbf877b383d"
+		}
+	},
+	"ttf-material-icons-git": {
+		"github.com/google/material-design-icons.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "c9eada8524497ad0227978e71b3c81d4fbad666d"
+		}
+	},
+	"xbps-git": {
+		"github.com/void-linux/xbps.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "e2ab72082e59f572ee5cae9f8aa3ddbc56a3017c"
+		}
+	},
+	"zscroll-git": {
+		"github.com/noctuid/zscroll": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "abee462af9bc50f7ed17c36c32e55c356ac5c133"
+		}
+	}
+}

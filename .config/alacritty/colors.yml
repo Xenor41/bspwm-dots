@@ -1,0 +1,29 @@
+# Colors (i dont know) Andrea Rice
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#FFFFFF'
+
+  normal:
+    black:   '#80859d'
+    red:     '#c04364'
+    green:   '#abd77a'
+    yellow:  '#ffcc57'
+    blue:    '#67d4f1'
+    magenta: '#7a7498'
+    cyan:    '#9bf4d5'
+    white:   '#b0b0b0'
+
+  bright:
+    black:   '#80859d'
+    red:     '#c03f61'
+    green:   '#a1d16c'
+    yellow:  '#f2be47'
+    blue:    '#50bfdc'
+    magenta: '#605692'
+    cyan:    '#83edc8'
+    white:   '#b0b0b0'
+    
+  cursor:
+    cursor: '#7a7498'
+    text:	'#F5EEE6'
